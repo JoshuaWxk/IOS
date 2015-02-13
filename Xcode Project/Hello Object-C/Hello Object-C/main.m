@@ -21,7 +21,8 @@ BOOL areIntsDifferent(int thing1, int thing2){
 NSString *boolString(BOOL yesNo){
     if(yesNo==NO){
         return (@"NO");
-    }else{
+    }
+    else{
         return (@"YES");
     }
 }
