@@ -26,8 +26,6 @@ NSString *boolString(BOOL yesNo){
     }
 }
 
-
-
 //int main(int argc, const char * argv[]) {
 //   
 //    BOOL areTheyDifferent;
